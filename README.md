@@ -1,4 +1,4 @@
-# DroneAutoLanding on a Moving Barcode
+# DroneAutoLanding on a Moving ArUco code
 
 Focuses on enabling the drone to land in front of a Aruco code, even if the Aruco code is moved (e.g., by a wire). The drone should adjust its landing position to align with the moving Aruco code.
 
